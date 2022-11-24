@@ -1,3 +1,3 @@
 # demo
 
-write \# before the line to highlight it.
+write \# before the line to make it a heading.
